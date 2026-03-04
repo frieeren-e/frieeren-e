@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 about me? idk, but, i'm...<br>👯 anime lover (frieren is my favourite)<br>🤝 mathematics student at UFV<br>🌱 looking internship<br>💬 I like to be constantly learning<br>⚡ interested in backend dev and microservices
+🔭 about me? idk, but, i'm...<br>👯 anime lover (frieren is my favourite)<br>🤝 mathematics student at UFV<br>🌱 looking internship<br>💬 I like to be constantly learning<br>⚡ interested in backend dev, microservices and iOT
 
 
 ## 🌐 Socials:
